@@ -4,8 +4,9 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="" alt="GitHub Stats" height="165"/>
-  <img src="" alt="Most Used Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LuanWiggers&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanWiggers&layout=compact&theme=radical" alt="Most Used Languages" height="165"/>
+
 </p>
 
 ---
