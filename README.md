@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o Luan Wiggers</h1>
+<h1 align="center">👋 Olá, eu sou o Luan Wiggers Oliveira</h1>
 
 ---
 
