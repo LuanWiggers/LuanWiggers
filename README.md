@@ -38,7 +38,7 @@ Aqui estão algumas das principais tecnologias que utilizo e estudo:
 | :--- | :--- |
 | **LinkedIn** | [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-wiggers-oliveira-77594817a/) |
 | **Email** | [![Email Badge](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:luanwiggers.wiggers@gmail.com) |
-| **Seu Site/Portfólio** | [![Website Badge](https://img.shields.io/badge/Portfólio-000000?style=flat-square&logo=github&logoColor=white)]([LINK DO SEU PORTFÓLIO]) |
+
 
 <br>
 
