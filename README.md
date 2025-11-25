@@ -1,12 +1,8 @@
 <h1 align="center">👋 Olá, eu sou o Luan Wiggers Oliveira</h1>
 
 ---
-### 📊 Minhas Estatísticas do GitHub
-### 📊 Teste Básico de Estatísticas
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=LuanWiggers&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ---
-
 ## 🚀 Tecnologias que utilizo
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,pycharm,py,git,github"/>
