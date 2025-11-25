@@ -2,11 +2,9 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
+### 📊 Minhas Estatísticas do GitHub
 
-
-</p>
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=LuanWiggers&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
