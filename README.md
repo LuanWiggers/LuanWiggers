@@ -1,9 +1,5 @@
 <h1 align="center">👋 Olá, eu sou o Luan Wiggers Oliveira</h1>
 ---
-### 🌐 Linguagens que Uso
-
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_NOME_DE_USUÁRIO&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
----
 ## 🚀 Tecnologias que utilizo
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,pycharm,py,git,github"/>
