@@ -1,11 +1,9 @@
 <h1 align="center">👋 Olá, eu sou o Luan Wiggers Oliveira</h1>
 
 ---
-
 ### 📊 Minhas Estatísticas do GitHub
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=LuanWiggers&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=LuanWiggers&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&date=2025-11-25)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ## 🚀 Tecnologias que utilizo
