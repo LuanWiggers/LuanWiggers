@@ -1,7 +1,4 @@
 <h1 align="center">👋 Olá, eu sou o Luan Wiggers Oliveira</h1>
-
----
-
 ---
 ## 🚀 Tecnologias que utilizo
 <p align="center">
