@@ -18,8 +18,3 @@
 </p>
 
 ---
-
-## 🎨 Avatar
-<p align="center">
-  <img src=" />
-</p>
