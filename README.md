@@ -1,16 +1,46 @@
-<h1 align="center">👋 Olá, eu sou o Luan Wiggers Oliveira</h1>
+# Olá! Eu sou o Luan Wiggers 👋
+
+### Desenvolvedor Web Full Stack | Joinville SC
+
+Apaixonado pela tecnologia.
+
 ---
-🚀 Tecnologias que utilizo
+
+## 🚀 Tecnologias e Ferramentas
+
+Aqui estão algumas das principais tecnologias que utilizo e estudo:
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens Web** | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> |
+| **Backend** | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> |
+| **Banco de Dados** | <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white"/> |
+| **Ferramentas** | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> |
+
+---
+
+## 📈 Minhas Estatísticas e Linguagens no GitHub
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,pycharm,py,git,github"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LuanWiggers&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&cache_bust=202511251842" 
+       alt="Estatísticas do GitHub" 
+       width="48%" style="margin-right: 2%;"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanWiggers&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br"
+       alt="Linguagens Mais Usadas"
+       width="48%"/>
 </p>
 
 ---
 
-## 🌐 Onde me encontrar
-<p align="center">
-  <a href="mailto:luanwiggers.wiggers@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/luan-wiggers-oliveira-77594817a/ " target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
+## 🤝 Conecte-se Comigo
 
----
+| Plataforma | Link |
+| :--- | :--- |
+| **LinkedIn** | [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-wiggers-oliveira-77594817a/) |
+| **Email** | [![Email Badge](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:luanwiggers.wiggers@gmail.com) |
+| **Seu Site/Portfólio** | [![Website Badge](https://img.shields.io/badge/Portfólio-000000?style=flat-square&logo=github&logoColor=white)]([LINK DO SEU PORTFÓLIO]) |
+
+<br>
+
+***"O único lugar onde o sucesso vem antes do trabalho é no dicionário."***
